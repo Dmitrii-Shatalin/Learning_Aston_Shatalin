@@ -1,0 +1,3 @@
+interface ItHasWool {
+    boolean itHasWool();
+}

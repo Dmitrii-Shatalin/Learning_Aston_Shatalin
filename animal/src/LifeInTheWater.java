@@ -1,0 +1,4 @@
+
+interface LifeInTheWater {
+    void lifeInTheWater();
+}
