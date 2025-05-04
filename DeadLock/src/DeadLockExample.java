@@ -35,7 +35,6 @@ public class DeadLockExample {
             lock1.unlock();
             lock2.unlock();
         });
-
         thread1.start();
         thread2.start();
     }
